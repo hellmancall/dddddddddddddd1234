@@ -1,0 +1,70 @@
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789551737697.woff2) format('woff2');
+font-weight:400;
+font-display:swap;
+font-family:'phenom-font';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789551738223.woff2) format('woff2');
+font-weight:400;
+font-display:swap;
+font-family:'platform-font';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789551738668.woff2) format('woff2');
+font-weight:400;
+font-display:swap;
+font-family:'internalmobility';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789551739117.woff2) format('woff2');
+font-weight:300;
+font-display:swap;
+font-family:'Action NBA-Light';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789551739473.woff2) format('woff2');
+font-weight:400;
+font-display:swap;
+font-family:'Action NBA-Regular';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789551739793.woff2) format('woff2');
+font-weight:700;
+font-display:swap;
+font-family:'Action NBA-Bold';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789551740162.woff2) format('woff2');
+font-weight:300;
+font-display:swap;
+font-family:'Roboto-Light';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789551740936.woff2) format('woff2');
+font-weight:400;
+font-display:swap;
+font-family:'Roboto-Medium';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789923632124.woff2) format('woff2');
+font-weight:400;
+font-display:swap;
+font-family:'Roboto-Regular';
+font-style:normal;
+}
+@font-face {
+src:url(https://pp-cdn.phenompeople.com/CareerConnectResources/prod/NBDSUS/canvas/font/font-1789923655994.woff2) format('woff2');
+font-weight:700;
+font-display:swap;
+font-family:'Roboto-Bold';
+font-style:normal;
+}
